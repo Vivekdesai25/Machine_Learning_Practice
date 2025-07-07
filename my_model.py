@@ -1,1 +1,0 @@
-print('This is my model file pushed from Colab!')
